@@ -78,3 +78,6 @@ int main(int argc, char** argv) {
     glutMainLoop();                               // Enter event-processing loop
     return 0;
 }
+ color is blue .
+size is 34 , 45 
+
